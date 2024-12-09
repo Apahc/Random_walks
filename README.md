@@ -23,13 +23,7 @@
    git clone https://github.com/yourusername/random-walk-simulation.git
    ```
 
-2. Перейдите в директорию проекта:
-
-   ```bash
-   cd random-walk-simulation
-   ```
-
-3. Установите необходимые библиотеки:
+2. Установите необходимые библиотеки:
 
    ```bash
    pip install -r requirements.txt
